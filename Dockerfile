@@ -1,4 +1,4 @@
-FROM python:3.12.3
+FROM python:3.8.14
 LABEL maintainer="Saketh Marrapu <smarrapu05@tamu.edu>"
 LABEL version="1.0"
 LABEL description="Python Notebook for STAT 315 final project"
