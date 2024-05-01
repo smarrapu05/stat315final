@@ -16,7 +16,8 @@ RUN pip install \
 	matplotlib==3.6.3 \
 	pandas==1.5.1 \
 	numpy==1.23.2 \
-	jupyter==1.0.0
+	jupyter==1.0.0 \
+	pandoc==2.3
 
 WORKDIR /home/notebooks/
 
